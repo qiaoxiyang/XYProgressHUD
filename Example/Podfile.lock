@@ -1,0 +1,23 @@
+PODS:
+  - SVProgressHUD (2.2.5)
+  - XYProgressHUD (0.1):
+    - SVProgressHUD
+
+DEPENDENCIES:
+  - XYProgressHUD (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - SVProgressHUD
+
+EXTERNAL SOURCES:
+  XYProgressHUD:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+  XYProgressHUD: f3b289225079b7d4ad6c4bb6d8d7ed8a39b1cd30
+
+PODFILE CHECKSUM: 59267dac64e4170ce6a32516f25d724264ed7895
+
+COCOAPODS: 1.9.3

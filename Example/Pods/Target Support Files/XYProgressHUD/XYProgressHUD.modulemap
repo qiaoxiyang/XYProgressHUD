@@ -1,0 +1,6 @@
+framework module XYProgressHUD {
+  umbrella header "XYProgressHUD-umbrella.h"
+
+  export *
+  module * { export * }
+}
